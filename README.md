@@ -3,7 +3,7 @@
 
 ![Loading](https://user-images.githubusercontent.com/105829258/192970517-027b9006-ca29-4e60-b8bd-8ddc80965654.png)
 
-### 🔧 주요 기능
+## 🔧 주요 기능
 
 <details>
 <summary>🗨️ 공개/비공개 방 조회 및 검색을 통한 게임방 입장</summary>
